@@ -4,7 +4,8 @@ Info21 v1.0 project involves creating a database with data about School 21 and w
 
 # **Logical View of the Database**
 
-![Screenshot 2024-05-07 at 3.35.48 PM.png](info21/img/Screenshot_2024-05-07_at_3.35.48_PM.png)
+![Screenshot](info21/img/Screenshot_2024-05-07_at_3.35.48_PM.png)
+
 
 The logical view of the database for the Info21 v1.0 project represents the organization and relationship of the data within the database. Here's a brief overview:
 
